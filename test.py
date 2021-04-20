@@ -25,11 +25,3 @@ def mul(x, y):
 
 
 print(mul(4, 2))
-
-
-@add_2
-def add(x, y):
-    return x + y
-
-
-print(add(4, 2))
